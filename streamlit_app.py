@@ -9,7 +9,7 @@ import pandas as pd
 import json
 import matplotlib.pyplot as plt
 import matplotlib.image as mpimg
-import cv2
+from cv2 import cv2
 from bunch import Bunch
 import numpy as np
 import torchvision.transforms.functional as TF
